@@ -11,7 +11,11 @@ School work
 
 To get started:
 ```
-ionic serve OR npm start run
+ionic serve
+```
+Or
+```
+npm start run
 ```
 ---
 
