@@ -2,7 +2,7 @@
 
 **Version 1.0.0**
 
-Ionic app
+Ionic app template
 
 ---
 School work
